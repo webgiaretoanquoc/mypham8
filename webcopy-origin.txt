@@ -1,0 +1,2772 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto+Condensed:regular%2C700%2Cregular%2Cregular|Dancing+Script:regular%2Cdefault&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fbst-6-thoi-son-mac-mini-ban-chay-nhat-dip-83%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fcach-dung-nuoc-hoa-dung-chuan-va-sanh-dieu-nhat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fcong-thuc-lam-mat-na-de-da-het-bong-troc-mua-hanh-kho%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fdung-my-pham-dung-cach-de-khong-hong-da%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fhuong-dan-su-dung-bo-my-pham-ohui-the-first-tai-sinh-da-hieu-qua-nhat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fbo-duong-chong-lao-hoa-therapy-the-faceshop%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fbo-duong-da-ca-chua-foodaholic-tomato%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fbo-duong-da-toan-dien-collagen-3w-clinic%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fbo-duong-da-tra-xanh-green-tea-special-kt%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fbo-duong-thao-moc-daandan-bit-premium-hanbang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fbo-tien-ich-duong-da-va-phan-nuoc-iope%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fdau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fhuyet-thanh-duong-trang-da-peptide-volume-essence-100ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fmat-na-ngu-laneige-15ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fmat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fnuoc-hoa-hong-melvita-damask-rose-floral-water%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fnuoc-hoa-vung-kin-dionel-secret-love%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fnuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Fsua-tam-duong-the-lunaris-han-quoc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fsan-pham%252Ftay-te-bao-chet-dang-hu-stives%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham8.webtudong8giay.com%252Fthuong-hieu-lori-b-thuc-hien-chuong-trinh-tri-mun-mien-phi-moi-thang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://mypham8.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-11.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-10.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-12.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-9.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-8.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/bst-6-thoi-son-mac-mini-ban-chay-nhat-dip-83/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\bst-6-thoi-son-mac-mini-ban-chay-nhat-dip-83\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/bst-6-thoi-son-mac-mini-ban-chay-nhat-dip-83/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\bst-6-thoi-son-mac-mini-ban-chay-nhat-dip-83\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/cach-dung-nuoc-hoa-dung-chuan-va-sanh-dieu-nhat/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cach-dung-nuoc-hoa-dung-chuan-va-sanh-dieu-nhat\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cach-dung-nuoc-hoa-dung-chuan-va-sanh-dieu-nhat/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cach-dung-nuoc-hoa-dung-chuan-va-sanh-dieu-nhat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/chuyen-muc/blog/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\chuyen-muc\blog\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/chuyen-muc/blog/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\chuyen-muc\blog\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/chuyen-muc/tu-van/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\chuyen-muc\tu-van\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/chuyen-muc/tu-van/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\chuyen-muc\tu-van\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/color/black/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\color\black\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/color/black/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\color\black\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/color/blue/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\color\blue\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/color/blue/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\color\blue\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/color/red/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\color\red\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/color/red/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\color\red\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/cong-thuc-lam-mat-na-de-da-het-bong-troc-mua-hanh-kho/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cong-thuc-lam-mat-na-de-da-het-bong-troc-mua-hanh-kho\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cong-thuc-lam-mat-na-de-da-het-bong-troc-mua-hanh-kho/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cong-thuc-lam-mat-na-de-da-het-bong-troc-mua-hanh-kho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-11.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-10.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=476
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-13.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=562
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-8.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-12.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-14.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-9.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/cua-hang/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\cua-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/?add-to-cart=476
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/?add-to-cart=562
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/cham-soc-da-tay-da-chan/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\cham-soc-da-tay-da-chan\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/cham-soc-da-tay-da-chan/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\cham-soc-da-tay-da-chan\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/cham-soc-da-tay-da-chan/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\cham-soc-da-tay-da-chan\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/cham-soc-da-tay-da-chan/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\cham-soc-da-tay-da-chan\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/cham-soc-da-tay-da-chan/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\cham-soc-da-tay-da-chan\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/cham-soc-da-tay-da-chan/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\cham-soc-da-tay-da-chan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/kem-duong-body/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\kem-duong-body\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/kem-duong-body/?add-to-cart=562
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\kem-duong-body\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/kem-duong-body/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\kem-duong-body\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/kem-duong-body/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\kem-duong-body\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/kem-duong-body/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\kem-duong-body\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/sua-tam/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\sua-tam\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/sua-tam/?add-to-cart=476
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\sua-tam\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/sua-tam/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\sua-tam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/tam-trang/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\tam-trang\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-da-toan-than/tam-trang/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-da-toan-than\tam-trang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/?add-to-cart=566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/?add-to-cart=705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/?add-to-cart=710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/bo-sp-duong-da/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\bo-sp-duong-da\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/bo-sp-duong-da/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\bo-sp-duong-da\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/bo-sp-duong-da/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\bo-sp-duong-da\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/bo-sp-duong-da/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\bo-sp-duong-da\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/bo-sp-duong-da/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\bo-sp-duong-da\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/bo-sp-duong-da/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\bo-sp-duong-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/cham-soc-da-vung-mat/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\cham-soc-da-vung-mat\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/cham-soc-da-vung-mat/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\cham-soc-da-vung-mat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/chong-lao-hoa-chong-nhan/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\chong-lao-hoa-chong-nhan\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/chong-lao-hoa-chong-nhan/?add-to-cart=705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\chong-lao-hoa-chong-nhan\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/chong-lao-hoa-chong-nhan/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\chong-lao-hoa-chong-nhan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/duong-am-duong-trang/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\duong-am-duong-trang\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/duong-am-duong-trang/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\duong-am-duong-trang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/kem-chong-nang/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\kem-chong-nang\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/kem-chong-nang/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\kem-chong-nang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/mat-na-duong-da-lot-mun/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\mat-na-duong-da-lot-mun\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/mat-na-duong-da-lot-mun/?add-to-cart=566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\mat-na-duong-da-lot-mun\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/mat-na-duong-da-lot-mun/?add-to-cart=710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\mat-na-duong-da-lot-mun\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/mat-na-duong-da-lot-mun/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\mat-na-duong-da-lot-mun\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/nuoc-hoa-hong/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\nuoc-hoa-hong\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/nuoc-hoa-hong/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\nuoc-hoa-hong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/serum-tinh-chat-te-bao-goc/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\serum-tinh-chat-te-bao-goc\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/serum-tinh-chat-te-bao-goc/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\serum-tinh-chat-te-bao-goc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/xit-khoang/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\xit-khoang\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-duong-da-mat/xit-khoang/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-duong-da-mat\xit-khoang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\index-8.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/dau-goi-xa-u-duong-toc/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\dau-goi-xa-u-duong-toc\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/dau-goi-xa-u-duong-toc/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\dau-goi-xa-u-duong-toc\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/dau-goi-xa-u-duong-toc/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\dau-goi-xa-u-duong-toc\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/dau-goi-xa-u-duong-toc/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\dau-goi-xa-u-duong-toc\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/dau-goi-xa-u-duong-toc/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\dau-goi-xa-u-duong-toc\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/dau-goi-xa-u-duong-toc/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\dau-goi-xa-u-duong-toc\index-8.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/dau-goi-xa-u-duong-toc/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\dau-goi-xa-u-duong-toc\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/dau-goi-xa-u-duong-toc/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\dau-goi-xa-u-duong-toc\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/dau-goi-xa-u-duong-toc/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\dau-goi-xa-u-duong-toc\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/dau-goi-xa-u-duong-toc/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\dau-goi-xa-u-duong-toc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/nhuom-toc/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\nhuom-toc\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/nhuom-toc/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\nhuom-toc\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/nhuom-toc/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\nhuom-toc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/phu-kien-toc/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\phu-kien-toc\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/phu-kien-toc/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\phu-kien-toc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/tinh-chat-tinh-dau-duong-toc/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\tinh-chat-tinh-dau-duong-toc\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/tinh-chat-tinh-dau-duong-toc/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\tinh-chat-tinh-dau-duong-toc\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/cham-soc-toc/tinh-chat-tinh-dau-duong-toc/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\cham-soc-toc\tinh-chat-tinh-dau-duong-toc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/lam-sach-da/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\lam-sach-da\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/lam-sach-da/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\lam-sach-da\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/lam-sach-da/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\lam-sach-da\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/lam-sach-da/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\lam-sach-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/lam-sach-da/sua-rua-mat/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\lam-sach-da\sua-rua-mat\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/lam-sach-da/sua-rua-mat/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\lam-sach-da\sua-rua-mat\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/lam-sach-da/sua-rua-mat/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\lam-sach-da\sua-rua-mat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/lam-sach-da/tay-trang-tay-da-chet/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\lam-sach-da\tay-trang-tay-da-chet\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/lam-sach-da/tay-trang-tay-da-chet/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\lam-sach-da\tay-trang-tay-da-chet\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/lam-sach-da/tay-trang-tay-da-chet/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\lam-sach-da\tay-trang-tay-da-chet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/nuoc-hoa/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\nuoc-hoa\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/nuoc-hoa/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\nuoc-hoa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/nuoc-hoa/nuoc-hoa-nam/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\nuoc-hoa\nuoc-hoa-nam\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/nuoc-hoa/nuoc-hoa-nam/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\nuoc-hoa\nuoc-hoa-nam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/nuoc-hoa/nuoc-hoa-nu/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\nuoc-hoa\nuoc-hoa-nu\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/nuoc-hoa/nuoc-hoa-nu/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\nuoc-hoa\nuoc-hoa-nu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/kem-bb-cc-lot-nen/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\kem-bb-cc-lot-nen\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/kem-bb-cc-lot-nen/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\kem-bb-cc-lot-nen\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/kem-che-khuyet-diem/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\kem-che-khuyet-diem\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/kem-che-khuyet-diem/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\kem-che-khuyet-diem\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/phan-nuoc/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\phan-nuoc\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/phan-nuoc/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\phan-nuoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/phan-phu-ma-hong/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\phan-phu-ma-hong\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/phan-phu-ma-hong/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\phan-phu-ma-hong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/son-moi-son-duong/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\son-moi-son-duong\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/son-moi-son-duong/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\son-moi-son-duong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/trang-diem-mat/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\trang-diem-mat\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/san-pham-trang-diem/trang-diem-mat/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\san-pham-trang-diem\trang-diem-mat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/thuc-pham-cham-soc-suc-khoe/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\thuc-pham-cham-soc-suc-khoe\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/thuc-pham-cham-soc-suc-khoe/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\thuc-pham-cham-soc-suc-khoe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/thuc-pham-cham-soc-suc-khoe/hat-dinh-duong/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\thuc-pham-cham-soc-suc-khoe\hat-dinh-duong\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/thuc-pham-cham-soc-suc-khoe/hat-dinh-duong/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\thuc-pham-cham-soc-suc-khoe\hat-dinh-duong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/thuc-pham-cham-soc-suc-khoe/san-pham-bo-duong-co-the/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\thuc-pham-cham-soc-suc-khoe\san-pham-bo-duong-co-the\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/danh-muc/thuc-pham-cham-soc-suc-khoe/san-pham-bo-duong-co-the/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\danh-muc\thuc-pham-cham-soc-suc-khoe\san-pham-bo-duong-co-the\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/dung-my-pham-dung-cach-de-khong-hong-da/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\dung-my-pham-dung-cach-de-khong-hong-da\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/dung-my-pham-dung-cach-de-khong-hong-da/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\dung-my-pham-dung-cach-de-khong-hong-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/huong-dan-su-dung-bo-my-pham-ohui-the-first-tai-sinh-da-hieu-qua-nhat/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\huong-dan-su-dung-bo-my-pham-ohui-the-first-tai-sinh-da-hieu-qua-nhat\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/huong-dan-su-dung-bo-my-pham-ohui-the-first-tai-sinh-da-hieu-qua-nhat/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\huong-dan-su-dung-bo-my-pham-ohui-the-first-tai-sinh-da-hieu-qua-nhat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/khuyen-mai/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\khuyen-mai\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-chong-lao-hoa-therapy-the-faceshop/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-chong-lao-hoa-therapy-the-faceshop\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-chong-lao-hoa-therapy-the-faceshop/?add-to-cart=566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-chong-lao-hoa-therapy-the-faceshop\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-chong-lao-hoa-therapy-the-faceshop/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-chong-lao-hoa-therapy-the-faceshop\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-chong-lao-hoa-therapy-the-faceshop/?add-to-cart=710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-chong-lao-hoa-therapy-the-faceshop\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-chong-lao-hoa-therapy-the-faceshop/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-chong-lao-hoa-therapy-the-faceshop\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-chong-lao-hoa-therapy-the-faceshop/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-chong-lao-hoa-therapy-the-faceshop\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-chong-lao-hoa-therapy-the-faceshop/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-chong-lao-hoa-therapy-the-faceshop\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-chong-lao-hoa-therapy-the-faceshop/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-chong-lao-hoa-therapy-the-faceshop\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-ca-chua-foodaholic-tomato/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-ca-chua-foodaholic-tomato\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-ca-chua-foodaholic-tomato/?add-to-cart=566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-ca-chua-foodaholic-tomato\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-ca-chua-foodaholic-tomato/?add-to-cart=705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-ca-chua-foodaholic-tomato\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-ca-chua-foodaholic-tomato/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-ca-chua-foodaholic-tomato\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-ca-chua-foodaholic-tomato/?add-to-cart=710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-ca-chua-foodaholic-tomato\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-ca-chua-foodaholic-tomato/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-ca-chua-foodaholic-tomato\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-ca-chua-foodaholic-tomato/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-ca-chua-foodaholic-tomato\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-ca-chua-foodaholic-tomato/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-ca-chua-foodaholic-tomato\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=476
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-9.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=562
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-11.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-10.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-12.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index-8.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-9.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-8.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=476
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-11.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=562
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-10.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-13.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\index-12.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-da-tra-xanh-green-tea-special-kt/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-da-tra-xanh-green-tea-special-kt\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=476
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-11.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=562
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-12.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-13.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-10.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-8.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-9.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/?add-to-cart=566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index-9.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/?add-to-cart=705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index-10.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/?add-to-cart=710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index-8.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index-11.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml/?add-to-cart=476
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml\index-9.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml/?add-to-cart=562
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml\index-8.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/huyet-thanh-duong-trang-da-peptide-volume-essence-100ml/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\huyet-thanh-duong-trang-da-peptide-volume-essence-100ml\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/huyet-thanh-duong-trang-da-peptide-volume-essence-100ml/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\huyet-thanh-duong-trang-da-peptide-volume-essence-100ml\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/huyet-thanh-duong-trang-da-peptide-volume-essence-100ml/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\huyet-thanh-duong-trang-da-peptide-volume-essence-100ml\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/huyet-thanh-duong-trang-da-peptide-volume-essence-100ml/?add-to-cart=476
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\huyet-thanh-duong-trang-da-peptide-volume-essence-100ml\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/huyet-thanh-duong-trang-da-peptide-volume-essence-100ml/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\huyet-thanh-duong-trang-da-peptide-volume-essence-100ml\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/huyet-thanh-duong-trang-da-peptide-volume-essence-100ml/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\huyet-thanh-duong-trang-da-peptide-volume-essence-100ml\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/huyet-thanh-duong-trang-da-peptide-volume-essence-100ml/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\huyet-thanh-duong-trang-da-peptide-volume-essence-100ml\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/huyet-thanh-duong-trang-da-peptide-volume-essence-100ml/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\huyet-thanh-duong-trang-da-peptide-volume-essence-100ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-laneige-15ml/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-laneige-15ml\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-laneige-15ml/?add-to-cart=705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-laneige-15ml\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-laneige-15ml/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-laneige-15ml\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-laneige-15ml/?add-to-cart=710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-laneige-15ml\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-laneige-15ml/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-laneige-15ml\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-laneige-15ml/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-laneige-15ml\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-laneige-15ml/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-laneige-15ml\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-laneige-15ml/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-laneige-15ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml/?add-to-cart=566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml/?add-to-cart=705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\mat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-hong-melvita-damask-rose-floral-water/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-hong-melvita-damask-rose-floral-water\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-hong-melvita-damask-rose-floral-water/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-hong-melvita-damask-rose-floral-water\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-hong-melvita-damask-rose-floral-water/?add-to-cart=476
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-hong-melvita-damask-rose-floral-water\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-hong-melvita-damask-rose-floral-water/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-hong-melvita-damask-rose-floral-water\index-8.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-hong-melvita-damask-rose-floral-water/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-hong-melvita-damask-rose-floral-water\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-hong-melvita-damask-rose-floral-water/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-hong-melvita-damask-rose-floral-water\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-hong-melvita-damask-rose-floral-water/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-hong-melvita-damask-rose-floral-water\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-hong-melvita-damask-rose-floral-water/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-hong-melvita-damask-rose-floral-water\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-hong-melvita-damask-rose-floral-water/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-hong-melvita-damask-rose-floral-water\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-hong-melvita-damask-rose-floral-water/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-hong-melvita-damask-rose-floral-water\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\index-8.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/?add-to-cart=476
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/?add-to-cart=562
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\index-9.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o/?add-to-cart=629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/sua-tam-duong-the-lunaris-han-quoc/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\sua-tam-duong-the-lunaris-han-quoc\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/sua-tam-duong-the-lunaris-han-quoc/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\sua-tam-duong-the-lunaris-han-quoc\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/sua-tam-duong-the-lunaris-han-quoc/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\sua-tam-duong-the-lunaris-han-quoc\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/sua-tam-duong-the-lunaris-han-quoc/?add-to-cart=562
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\sua-tam-duong-the-lunaris-han-quoc\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/sua-tam-duong-the-lunaris-han-quoc/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\sua-tam-duong-the-lunaris-han-quoc\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/sua-tam-duong-the-lunaris-han-quoc/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\sua-tam-duong-the-lunaris-han-quoc\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/sua-tam-duong-the-lunaris-han-quoc/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\sua-tam-duong-the-lunaris-han-quoc\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/sua-tam-duong-the-lunaris-han-quoc/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\sua-tam-duong-the-lunaris-han-quoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/tay-te-bao-chet-dang-hu-stives/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\tay-te-bao-chet-dang-hu-stives\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/tay-te-bao-chet-dang-hu-stives/?add-to-cart=403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\tay-te-bao-chet-dang-hu-stives\index-4.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/tay-te-bao-chet-dang-hu-stives/?add-to-cart=472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\tay-te-bao-chet-dang-hu-stives\index-6.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/tay-te-bao-chet-dang-hu-stives/?add-to-cart=568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\tay-te-bao-chet-dang-hu-stives\index-5.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/tay-te-bao-chet-dang-hu-stives/?add-to-cart=624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\tay-te-bao-chet-dang-hu-stives\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/tay-te-bao-chet-dang-hu-stives/?add-to-cart=707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\tay-te-bao-chet-dang-hu-stives\index-2.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/tay-te-bao-chet-dang-hu-stives/?add-to-cart=712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\tay-te-bao-chet-dang-hu-stives\index-3.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/san-pham/tay-te-bao-chet-dang-hu-stives/?add-to-cart=714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\san-pham\tay-te-bao-chet-dang-hu-stives\index-7.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/tai-khoan/Quên mật khẩu/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\tai-khoan\Quên mật khẩu\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/thanh-toan/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu-lori-b-thuc-hien-chuong-trinh-tri-mun-mien-phi-moi-thang/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu-lori-b-thuc-hien-chuong-trinh-tri-mun-mien-phi-moi-thang\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu-lori-b-thuc-hien-chuong-trinh-tri-mun-mien-phi-moi-thang/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu-lori-b-thuc-hien-chuong-trinh-tri-mun-mien-phi-moi-thang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu-my-pham/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu-my-pham\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu/botani/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu\botani\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu/botani/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu\botani\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu/laneige/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu\laneige\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu/laneige/?add-to-cart=717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu\laneige\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu/laneige/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu\laneige\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu/shiseido/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu\shiseido\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu/shiseido/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu\shiseido\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu/the-faceshop/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu\the-faceshop\index.htm
+Content Type: text/html
+
+Uri: https://mypham8.webtudong8giay.com/thuong-hieu/the-faceshop/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\thuong-hieu\the-faceshop\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/trangchu/feed/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\trangchu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/css/devvn-quick-buy.css?ver=2.1.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\css\devvn-quick-buy.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/images/close.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\images\close.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/devvn-quick-buy.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\devvn-quick-buy.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.validate.min.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.13.1
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\menu-icons\css\extra.min.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/menu-icons/css/fontawesome/css/all.min.css?ver=5.15.4
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\menu-icons\css\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/menu-icons/css/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\menu-icons\css\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/menu-icons/css/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\menu-icons\css\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/menu-icons/css/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\menu-icons\css\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/menu-icons/css/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\menu-icons\css\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/menu-icons/css/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\menu-icons\css\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/menu-icons/css/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\menu-icons\css\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/menu-icons/css/fontawesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\menu-icons\css\fontawesome\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/menu-icons/css/fontawesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\menu-icons\css\fontawesome\webfonts\fa-v4compatibility.woff2
+Content Type: 
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=1668021563
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woo-variation-swatches\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1668021563
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woo-variation-swatches\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/accounting/accounting.min.js?ver=0.4.2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\accounting\accounting.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\checkout.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/price-slider.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\price-slider.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-ui-touch-punch\jquery-ui-touch-punch.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/blocks-checkout.js?ver=1aeb3f9cd2b4952d3b7c658c3ac54767
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\blocks-checkout.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart-frontend.js?ver=6d77f57ad4d2f28e9fae7e9327b354c9
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\cart-frontend.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/checkout-frontend.js?ver=a4392447bf571a544c579a23dd39b854
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\checkout-frontend.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/price-format.js?ver=e99bed7a5cf7f43aadbce4396ccbcc5e
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\price-format.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-data.js?ver=7318f17e99fb56cda4dd7e6fbc16db3c
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-data.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-middleware.js?ver=cfefc68c23f627155c81d4aa8d2dbf3c
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-middleware.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-registry.js?ver=b6339851784e6ad947a8015afb8847ff
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-registry.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-context.js?ver=65e3c38669e82f3ed75ea378b29997f0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-context.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-hocs.js?ver=55647c9b478bc30776b5c52dc41b4954
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-hocs.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-settings.js?ver=7b2188da90828d22e68dae2a8129bd03
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-settings.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-cart-refresh/flatsome-cart-refresh.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-cart-refresh\flatsome-cart-refresh.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/10946587_910858655636166_1853280831_n-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\10946587_910858655636166_1853280831_n-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/10946587_910858655636166_1853280831_n-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\10946587_910858655636166_1853280831_n-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/10946587_910858655636166_1853280831_n.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\10946587_910858655636166_1853280831_n.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/13534383_1126660140799383_351427671_n__77618_zoom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\13534383_1126660140799383_351427671_n__77618_zoom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/13534383_1126660140799383_351427671_n__77618_zoom-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\13534383_1126660140799383_351427671_n__77618_zoom-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/13534383_1126660140799383_351427671_n__77618_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\13534383_1126660140799383_351427671_n__77618_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/58-23__06293_zoom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\58-23__06293_zoom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/58-23__06293_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\58-23__06293_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/800-800-1492163491987__70399_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\800-800-1492163491987__70399_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-chong-lao-hoa-the-therapy-thefaceshop-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-chong-lao-hoa-the-therapy-thefaceshop-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-chong-lao-hoa-the-therapy-thefaceshop-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-chong-lao-hoa-the-therapy-thefaceshop-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-chong-lao-hoa-the-therapy-thefaceshop.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-chong-lao-hoa-the-therapy-thefaceshop.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-dau-goi-xa-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml__81505_zoom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-dau-goi-xa-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml__81505_zoom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-dau-goi-xa-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml__81505_zoom-150x150.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-dau-goi-xa-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml__81505_zoom-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-dau-goi-xa-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml__81505_zoom-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-dau-goi-xa-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml__81505_zoom-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-dau-goi-xa-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml__81505_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-dau-goi-xa-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml__81505_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-duong-da-Collagen-3W-Clinic-4__67020_zoom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-duong-da-Collagen-3W-Clinic-4__67020_zoom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-duong-da-Collagen-3W-Clinic-4__67020_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-duong-da-Collagen-3W-Clinic-4__67020_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-duong-da-phan-nuoc-_IOPE__05170_zoom-1.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-duong-da-phan-nuoc-_IOPE__05170_zoom-1.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-duong-da-phan-nuoc-_IOPE__05170_zoom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-duong-da-phan-nuoc-_IOPE__05170_zoom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-duong-da-phan-nuoc-_IOPE__05170_zoom-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-duong-da-phan-nuoc-_IOPE__05170_zoom-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-duong-da-phan-nuoc-_IOPE__05170_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-duong-da-phan-nuoc-_IOPE__05170_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-duong-skinfood-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-duong-skinfood-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-duong-skinfood-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-duong-skinfood-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/bo-duong-skinfood.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\bo-duong-skinfood.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/kin1__60430_zoom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\kin1__60430_zoom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/kin1__60430_zoom-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\kin1__60430_zoom-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/kin1__60430_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\kin1__60430_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Mặt_nạ_ngủ_Opaeng_Omija_Snail_Sleeping_Pack_100ml__35657_zoom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Mặt_nạ_ngủ_Opaeng_Omija_Snail_Sleeping_Pack_100ml__35657_zoom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Mặt_nạ_ngủ_Opaeng_Omija_Snail_Sleeping_Pack_100ml__35657_zoom-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Mặt_nạ_ngủ_Opaeng_Omija_Snail_Sleeping_Pack_100ml__35657_zoom-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Mặt_nạ_ngủ_Opaeng_Omija_Snail_Sleeping_Pack_100ml__35657_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Mặt_nạ_ngủ_Opaeng_Omija_Snail_Sleeping_Pack_100ml__35657_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Mat-na-ngu-Laneige-1__63399_zoom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Mat-na-ngu-Laneige-1__63399_zoom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Mat-na-ngu-Laneige-1__63399_zoom-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Mat-na-ngu-Laneige-1__63399_zoom-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Mat-na-ngu-Laneige-1__63399_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Mat-na-ngu-Laneige-1__63399_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Nước_tẩy_trang_dành_cho_da_dầu_và_hỗn_hợp_Bioderma_Sébium_H2O_100ml-1__90319_zoom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Nước_tẩy_trang_dành_cho_da_dầu_và_hỗn_hợp_Bioderma_Sébium_H2O_100ml-1__90319_zoom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Nước_tẩy_trang_dành_cho_da_dầu_và_hỗn_hợp_Bioderma_Sébium_H2O_100ml-1__90319_zoom-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Nước_tẩy_trang_dành_cho_da_dầu_và_hỗn_hợp_Bioderma_Sébium_H2O_100ml-1__90319_zoom-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Nước_tẩy_trang_dành_cho_da_dầu_và_hỗn_hợp_Bioderma_Sébium_H2O_100ml-1__90319_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Nước_tẩy_trang_dành_cho_da_dầu_và_hỗn_hợp_Bioderma_Sébium_H2O_100ml-1__90319_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/nuoc-hoa-vung-kin-dionel-secret-love__38439_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\nuoc-hoa-vung-kin-dionel-secret-love__38439_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/sua-tam-duong-the-lunaris__73875_zoom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\sua-tam-duong-the-lunaris__73875_zoom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/sua-tam-duong-the-lunaris__73875_zoom-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\sua-tam-duong-the-lunaris__73875_zoom-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/sua-tam-duong-the-lunaris__73875_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\sua-tam-duong-the-lunaris__73875_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Sua-tam-Lunaris-Han-Quoc-1__13484_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Sua-tam-Lunaris-Han-Quoc-1__13484_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Tẩy_tế_bào_chết_dạng_hũ_StIves__52538_zoom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Tẩy_tế_bào_chết_dạng_hũ_StIves__52538_zoom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Tẩy_tế_bào_chết_dạng_hũ_StIves__52538_zoom-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Tẩy_tế_bào_chết_dạng_hũ_StIves__52538_zoom-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/Tẩy_tế_bào_chết_dạng_hũ_StIves__52538_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\Tẩy_tế_bào_chết_dạng_hũ_StIves__52538_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/The-Face-Shop-The-THERAPY-First-Serum-Review-2-1.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\The-Face-Shop-The-THERAPY-First-Serum-Review-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/The-Face-Shop-The-THERAPY-First-Serum-Review-2-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\The-Face-Shop-The-THERAPY-First-Serum-Review-2-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/The-Face-Shop-The-THERAPY-First-Serum-Review-2-247x296.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\The-Face-Shop-The-THERAPY-First-Serum-Review-2-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/The-Face-Shop-The-THERAPY-First-Serum-Review-2.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\The-Face-Shop-The-THERAPY-First-Serum-Review-2.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2017/07/vincharm-spa-tai-vinpearl-paradise-villa-o-phu-quoc-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2017\07\vincharm-spa-tai-vinpearl-paradise-villa-o-phu-quoc-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/arrow-pink-e1520007659727.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\arrow-pink-e1520007659727.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/bg-bottom-small.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\bg-bottom-small.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/bg-tips.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\bg-tips.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/bst-6-thoi-son-mac-mini-ban-chay-nhat-dip-83-1433-7053-150x150.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\bst-6-thoi-son-mac-mini-ban-chay-nhat-dip-83-1433-7053-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/cach-dung-nuoc-hoa-dung-chuan-va-sanh-dieu-nhat-1445-1700-150x150.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\cach-dung-nuoc-hoa-dung-chuan-va-sanh-dieu-nhat-1445-1700-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/chat-facebook.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\chat-facebook.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/chat-zalo.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\chat-zalo.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/cong-thuc-lam-mat-na-de-da-het-bong-troc-mua-hanh-kho-1427-3924-150x150.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\cong-thuc-lam-mat-na-de-da-het-bong-troc-mua-hanh-kho-1427-3924-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/favicon.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\favicon.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/fb-icon.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\fb-icon.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/icon-featured-2.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\icon-featured-2.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/icon-phone-1.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\icon-phone-1.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/icon-ribbon.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\icon-ribbon.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/icon-scooter.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\icon-scooter.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/logo.png
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\logo.png
+Content Type: image/png
+
+Uri: https://mypham8.webtudong8giay.com/wp-content/uploads/2018/03/thuong-hieu-lori-b-thuc-hien-chuong-trinh-tri-mun-mien-phi-moi-thang-1422-6236-150x150.jpg
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-content\uploads\2018\03\thuong-hieu-lori-b-thuc-hien-chuong-trinh-tri-mun-mien-phi-moi-thang-1422-6236-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/api-request.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\api-request.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/autop.min.js?ver=43197d709df445ccf849
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\autop.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/blob.min.js?ver=a078f260190acf405764
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\blob.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/block-editor.min.js?ver=d39738cb7c1202964677
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\block-editor.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=eb2cdc8cd7a7975d49d9
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\block-serialization-default-parser.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/blocks.min.js?ver=69022aed79bfd45b3b1d
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\blocks.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/components.min.js?ver=57b49a5bb19d1f1d566a
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\components.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/compose.min.js?ver=37228270687b2a94e518
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\compose.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/data-controls.min.js?ver=e10d473d392daa8501e8
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\data-controls.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/data.min.js?ver=d8cf5b24f99c64ae47d6
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\data.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/date.min.js?ver=ce7daf24092d87ff18be
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\date.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/deprecated.min.js?ver=6c963cb9494ba26b77eb
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\deprecated.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/dom.min.js?ver=133a042fbbef48f38107
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\dom.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/element.min.js?ver=47162ff4492c7ec4956b
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\element.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\escape-html.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/html-entities.min.js?ver=36a4a255da7dd2e1bf8e
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\html-entities.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/is-shallow-equal.min.js?ver=20c2b06ecf04afb14fee
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=b696c16720133edfc065
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\keyboard-shortcuts.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/keycodes.min.js?ver=6e0aadc0106bd8aadc89
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\keycodes.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/notices.min.js?ver=9c1575b7a31659f45a45
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\notices.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/plugins.min.js?ver=0d1b90278bae7df6ecf9
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/primitives.min.js?ver=ae0bece54c0487c976b1
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\primitives.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/priority-queue.min.js?ver=99e325da95c5a35c7dc2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/redux-routine.min.js?ver=c9ea6c0df793258797e6
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/rich-text.min.js?ver=c704284bebe26cf1dd51
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\rich-text.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/shortcode.min.js?ver=7539044b04e6bca57f2e
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\shortcode.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/style-engine.min.js?ver=10341d6e6decffab850e
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\style-engine.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/token-list.min.js?ver=f2cf0bb3ae80de227e43
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\token-list.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\vendor\moment.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/warning.min.js?ver=4acee5fc2fd9a24cefc2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\warning.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/dist/wordcount.min.js?ver=feb9569307aec24292f2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\dist\wordcount.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\jquery\ui\slider.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://mypham8.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fbst-6-thoi-son-mac-mini-ban-chay-nhat-dip-83%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fbst-6-thoi-son-mac-mini-ban-chay-nhat-dip-83%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fcach-dung-nuoc-hoa-dung-chuan-va-sanh-dieu-nhat%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fcach-dung-nuoc-hoa-dung-chuan-va-sanh-dieu-nhat%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fcong-thuc-lam-mat-na-de-da-het-bong-troc-mua-hanh-kho%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fcong-thuc-lam-mat-na-de-da-het-bong-troc-mua-hanh-kho%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fdung-my-pham-dung-cach-de-khong-hong-da%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fdung-my-pham-dung-cach-de-khong-hong-da%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fhuong-dan-su-dung-bo-my-pham-ohui-the-first-tai-sinh-da-hieu-qua-nhat%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fhuong-dan-su-dung-bo-my-pham-ohui-the-first-tai-sinh-da-hieu-qua-nhat%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fkhuyen-mai%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fkhuyen-mai%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-duong-chong-lao-hoa-therapy-the-faceshop%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-duong-chong-lao-hoa-therapy-the-faceshop%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-duong-da-ca-chua-foodaholic-tomato%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-duong-da-ca-chua-foodaholic-tomato%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-duong-da-toan-dien-collagen-3w-clinic%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-duong-da-toan-dien-collagen-3w-clinic%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-duong-da-tra-xanh-green-tea-special-kt%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-duong-da-tra-xanh-green-tea-special-kt%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-duong-thao-moc-daandan-bit-premium-hanbang%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-duong-thao-moc-daandan-bit-premium-hanbang%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-tien-ich-duong-da-va-phan-nuoc-iope%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fbo-tien-ich-duong-da-va-phan-nuoc-iope%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fdau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fdau-goi-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fhuyet-thanh-duong-trang-da-peptide-volume-essence-100ml%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fhuyet-thanh-duong-trang-da-peptide-volume-essence-100ml%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fmat-na-ngu-laneige-15ml%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fmat-na-ngu-laneige-15ml%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fmat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fmat-na-ngu-opaeng-omija-snail-sleeping-pack-100ml%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fnuoc-hoa-hong-melvita-damask-rose-floral-water%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fnuoc-hoa-hong-melvita-damask-rose-floral-water%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fnuoc-hoa-vung-kin-dionel-secret-love%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fnuoc-hoa-vung-kin-dionel-secret-love%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fnuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fnuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fsua-tam-duong-the-lunaris-han-quoc%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Fsua-tam-duong-the-lunaris-han-quoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Ftay-te-bao-chet-dang-hu-stives%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fsan-pham%2Ftay-te-bao-chet-dang-hu-stives%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fthanh-toan%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fthanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fthuong-hieu-lori-b-thuc-hien-chuong-trinh-tri-mun-mien-phi-moi-thang%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fthuong-hieu-lori-b-thuc-hien-chuong-trinh-tri-mun-mien-phi-moi-thang%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fthuong-hieu-my-pham%2F
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham8.webtudong8giay.com%2Fthuong-hieu-my-pham%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/categories/65
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\categories\65
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/pages/54
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\pages\54
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/pages/56
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\pages\56
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/pages/6
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\pages\6
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/pages/60
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\pages\60
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/pages/64
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\pages\64
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/pages/7
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/posts/1422
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\posts\1422
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/posts/1427
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\posts\1427
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/posts/1433
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\posts\1433
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/posts/1445
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\posts\1445
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/posts/870
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\posts\870
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/posts/879
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\posts\879
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/403
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\403
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/472
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\472
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/476
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\476
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/562
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\562
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/566
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\566
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/568
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\568
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/624
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\624
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/629
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\629
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/705
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\705
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/707
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\707
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/710
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\710
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/712
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\712
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/714
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\714
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/717
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\717
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product/719
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product\719
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/17
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\17
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/18
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\18
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/20
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\20
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/21
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\21
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/22
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\22
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/23
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\23
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/24
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/26
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\26
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/27
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\27
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/29
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\29
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/30
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\30
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/31
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\31
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/32
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\32
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/33
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\33
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/34
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\34
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/35
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\35
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/36
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\36
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/37
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\37
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/46
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\46
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/47
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\47
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/48
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\48
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/49
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\49
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/50
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\50
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/51
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\51
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/52
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\52
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/53
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\53
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/54
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\54
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/55
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\55
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/56
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\56
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/57
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\57
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/58
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\58
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/59
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\59
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/60
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\60
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/61
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\61
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/62
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\62
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/product_cat/63
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\product_cat\63
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/wp-json/wp/v2/users/5
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\wp-json\wp\v2\users\5
+Content Type: application/json
+
+Uri: https://mypham8.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\mypham8.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
